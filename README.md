@@ -9,3 +9,6 @@ public static IHostBuilder CreateHostBuilder(string[] args) =>
 ```
 
 Default Service Account that application is running under must have appropriate permissions granted (e.g. Secret Manager User)
+
+*Article:*
+[How to host multilingual Angular application on Google App Engine](https://dev.to/ib1/the-ultimate-guide-to-hosting-multilingual-angular-application-on-google-app-engine-o7k)
